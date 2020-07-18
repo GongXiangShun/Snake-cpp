@@ -6,7 +6,6 @@
 #define H 22
 #define W 22
 using namespace std;
-
 class chessboard
 {
 public:
